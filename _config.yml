@@ -1,0 +1,49 @@
+# Basic
+title: 朱红喜的博客
+subtitle: 一不小心又进步一点
+welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+description: This is the home of a forgetful person.
+creator: <a href="https:dev-zhu.github.io">@zhu</a>
+
+url: "http://vno.onevcat.com"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    - {title: Projects, description: My Projects, url: 'https://github.com/dev-zhu'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+plugins: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+social:
+    weibo:
+    github:
+    twitter:
+    gplus:
+    mail: breeziness123@foxmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host

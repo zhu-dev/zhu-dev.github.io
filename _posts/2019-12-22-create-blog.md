@@ -12,7 +12,7 @@ time:23:13
 
 #### 2.下载jekyll 主题
 
-	+ 随便在`jekyll theme` 找一个喜欢的主题，`clone` 下来
++ 随便在`jekyll theme` 找一个喜欢的主题，`clone` 下来
 
 #### 3.配置Ruby环境
 
